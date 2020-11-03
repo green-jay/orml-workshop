@@ -1,5 +1,7 @@
 # Open Runtime Module Library (ORML) Workshop
 
+Sub0 Workshop Link: https://www.crowdcast.io/e/axvfinsv/19
+
 This is a workshop project for learning about blockchain runtime development with
 [Substrate](https://substrate.dev/),
 [FRAME](https://substrate.dev/docs/en/knowledgebase/runtime/frame) and the
@@ -9,6 +11,8 @@ project implements a simple exchange protocol that is built on top of the ORML
 and [Tokens](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/tokens)
 pallets. After completing this workshop, participants should have a better understanding of how to
 design and implement a FRAME pallet.
+
+It is recommanded to read commit by commit to understand each individual steps.
 
 ## Add ORML Pallets
 
